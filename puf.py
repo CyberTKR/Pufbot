@@ -29,7 +29,28 @@ wait = {
     'leaveRoom':True,
     'timeline':True,
     'autoAdd':True,
-    'message':"Thanks for add me Owner\n{¶ http://line.me/ti/p/~cybertk0 ¶}",
+    'message':"""【тнanĸѕ ғor add мe】
+╔══╗ 
+║██║ 
+║(O)║♫ ♪ ♫ ♪
+╚══╝
+▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
+Min- - - - - - - - - - - -●Max
+║➪ It's an automatic message.
+Contact information was automatically 
+Sent to you. If you want to go there,
+you can contact with contact information.
+I wish you a good day ⇐║
+.........█􀜁􀄃Suspicious Face􏿿█▄▄▄▄▄▃􀌂􀇂meteorite􏿿
+..▂▄▅█████▅▄▃▂
+[██████████████
+◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲
+									
+➢ Instagram account ↴
+➤  https://instagram.com/_aquariusman ✔		
+➢ YouTuBe Channel ↴
+➤ https://m.youtube.com/channel/UC9AyYKWovERexyOFy3h4rdw ✔
+""",
     "lang":"JP",
     "comment":"Thanks for add me Owner\n{¶ http://line.me/ti/p/~cybertk0 ¶} ",
     "commentOn":False,
